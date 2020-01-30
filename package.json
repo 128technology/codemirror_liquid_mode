@@ -1,0 +1,25 @@
+{
+  "name": "codemirror-liquid-mode",
+  "version": "1.0.0",
+  "description": "A CodeMirror mode for the liquid template language (Forked from axtro/codemirror_liquid_mode)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/128technology/codemirror_liquid_mode.git"
+  },
+  "keywords": [
+    "codemirror",
+    "liquid",
+    "mode",
+    "package"
+  ],
+  "author": "128 Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/128technology/codemirror_liquid_mode/issues"
+  },
+  "homepage": "https://github.com/128technology/codemirror_liquid_mode#readme"
+}

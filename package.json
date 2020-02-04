@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/128technology/codemirror_liquid_mode/issues"
   },
-  "homepage": "https://github.com/128technology/codemirror_liquid_mode#readme"
+  "homepage": "https://github.com/128technology/codemirror_liquid_mode#readme",
+  "devDependencies": {
+    "@types/codemirror": "0.0.84"
+  }
 }

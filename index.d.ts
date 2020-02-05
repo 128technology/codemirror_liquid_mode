@@ -1,3 +1,7 @@
-import CodeMirror from 'codemirror';
+import * as CodeMirror from 'codemirror';
 
-export default function updateCodeMirrorInstance(instance: typeof CodeMirror): typeof CodeMirror;
+declare function updateCodeMirrorInstance(instance: typeof CodeMirror): typeof CodeMirror;
+
+export = updateCodeMirrorInstance;
+
+

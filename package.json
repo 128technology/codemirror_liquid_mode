@@ -1,6 +1,6 @@
 {
   "name": "@128technology/codemirror-liquid-mode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CodeMirror mode for the liquid template language (Forked from axtro/codemirror_liquid_mode)",
   "main": "index.js",
   "scripts": {
